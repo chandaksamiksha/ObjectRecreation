@@ -1,0 +1,8 @@
+D:\ObjectRecreation\Server\bin\Debug\Server.exe.config
+D:\ObjectRecreation\Server\bin\Debug\Server.exe
+D:\ObjectRecreation\Server\bin\Debug\Server.pdb
+D:\ObjectRecreation\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\ObjectRecreation\Server\obj\Debug\Server.exe
+D:\ObjectRecreation\Server\obj\Debug\Server.pdb
+D:\ObjectRecreation\Server\bin\Debug\Newtonsoft.Json.dll
+D:\ObjectRecreation\Server\bin\Debug\Newtonsoft.Json.xml
